@@ -17,3 +17,13 @@ html {
     box-sizing: inherit;
 }
 
+img {
+    margin: 0 auto;
+}
+
+.cspbcard {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+}
+
