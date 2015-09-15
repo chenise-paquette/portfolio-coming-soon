@@ -21,11 +21,10 @@ img {
     margin: 0 auto;
     width: 160%;
     height: 160%;
-    
+    margin-left: 100px;
 }
 
 .cspbcard {
     display: block;
-    left: 50px;
 }
 
