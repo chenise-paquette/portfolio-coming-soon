@@ -19,12 +19,13 @@ html {
 
 img {
     margin: 0 auto;
-    display: block;
+    width: 160%;
+    height: 160%;
+    
 }
 
 .cspbcard {
     display: block;
-    width: 100%;
-    height: 100%;
+    left: 50px;
 }
 
